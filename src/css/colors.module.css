@@ -1,0 +1,16 @@
+:root {
+  --color-green: #4ba82e;
+  --color-white: #fff;
+
+  --color-major: var(--color-green);
+}
+
+.back-color {background-color: var(--color-major);}
+
+.bb {border-bottom: 1px solid var(--color-major);}
+.bl {border-left: 1px solid var(--color-major);}
+.br {border-right: 1px solid var(--color-major);}
+.bt {border-top: 1px solid var(--color-major);}
+
+.color {color: var(--color-major)}
+.white {color: var(--color-white)}

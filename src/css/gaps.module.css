@@ -1,0 +1,5 @@
+:root {
+  --gap: 0.5em;
+}
+
+.padding {padding: var(--gap);}
